@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc557ff61b4421a4a8e01d72b3eb9e4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Target: {instanceID: 0}
+  - toolIcon: {fileID: 2800000, guid: 75f43347a5ba6ea4bb4d34bdf2758fd0, type: 3}
+  - grid: {fileID: 6966975668471480747, guid: fa65f566067a58b4fbab9407efd50394, type: 3}
+  - gridArt: {fileID: 6966975668471480748, guid: fa65f566067a58b4fbab9407efd50394, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
